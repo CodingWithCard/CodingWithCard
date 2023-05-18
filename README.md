@@ -27,6 +27,13 @@ Whether it's through lines of code or a camera lens, I'm always looking to creat
 <br />
 
 #
+
+### 📊 Stats 
+
+![CodingWithCard's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingwithcard&show_icons=true&theme=onedark)
+
+
+#
           
 <details>
   <summary><h3> 📕 My coding journey <h3></summary>
