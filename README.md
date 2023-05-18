@@ -1,5 +1,7 @@
 # 🃏 CodingWithCard
 
+![CodingWithCard Gif](./codingwithcard.gif)
+
 **`Digital Craftsman (Developer/Photographer/Content Creator)`**
 
 I'm Manuel, but you might know me online as "Card". I'm a budding full-stack developer based in Germany, having embarked on this coding journey a little under a year ago.
