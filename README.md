@@ -28,7 +28,15 @@ Whether it's through lines of code or a camera lens, I'm always looking to creat
 
 #
           
+<details>
+  <summary><h3> 📕 My coding journey <h3></summary>
+When the COVID-19 pandemic hit and photography work dried up, I found myself seeking a new challenge. That's when I stumbled upon coding. I started off with Python, creating small projects and getting a feel for the language.
 
+One night, an ad for a development job popped up on my Instagram. Despite feeling underqualified due to my limited experience, I decided to apply. To my surprise, they called back. During the interview, I was honest about my novice status in the field.
+
+Impressively, they decided to take a chance on me. This opportunity expanded my horizons beyond Python, introducing me to C#, JavaScript, and TypeScript. Working in this role has been an enlightening journey. Every day presents a chance to learn something new and to continue developing my skills.
+
+I've come a long way since those first days of dabbling in Python, but there's still so much more to explore. Have a look through my repositories to see my progress and don't hesitate to reach out if you have any questions or would like to collaborate on a project.
           
           
           
